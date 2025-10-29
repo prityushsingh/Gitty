@@ -59,6 +59,6 @@ It’s designed purely for **educational purposes**, helping you learn how Git s
 ### Setup
 
 ```bash
-git clone https://github.com/<your-username>/Gitty.git
+https://github.com/prityushsingh/Gitty.git
 cd Gitty
 python main.py --help
