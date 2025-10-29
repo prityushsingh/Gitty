@@ -310,7 +310,7 @@ class Repository:
             tree = GittyTree()
             return self.store_object(tree)
 
-        # Build nested dict structure for directories
+        # Build nested dict structure for directories x
         dirs: Dict[str, Dict] = {}
         files: Dict[str, str] = {}
 
